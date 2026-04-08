@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Premium Siding Llc",
+    "phone": "+13094204442",
+    "category": "siding contractor",
+    "city": "Columbus",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Columbus's Siding Authority",
+      "heroSubline": "Protecting homes across Central Ohio with expert siding installation and repair. Premium materials, unmatched craftsmanship.",
+      "aboutTitle": "Your Trusted Siding Partner in Columbus",
+      "aboutText": [
+        "Premium Siding LLC started with a simple mission: to provide Columbus homeowners with durable, beautiful siding solutions that stand up to Ohio's harsh climate. We saw too many homes suffering from freeze-thaw damage and subpar installations, and we knew we could do better.",
+        "Our approach is built on clear communication, meticulous attention to detail, and a commitment to using only the highest-quality materials. We don't cut corners, and we treat every project as if it were our own home.",
+        "We're proud to be a part of the Columbus community. We regularly support local initiatives and strive to build lasting relationships with our neighbors. Our team lives and works here, and we're invested in the well-being of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precision siding installation for lasting protection and curb appeal."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "Only the best vinyl, fiber cement, and wood siding from trusted manufacturers."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Columbus's climate and housing styles."
+        },
+        {
+          "title": "Comprehensive Service",
+          "description": "From initial consultation to final inspection, we handle every detail."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation siding estimate in Columbus. Call now!"
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable and affordable vinyl siding installation for Columbus homes.",
+        "description": "Vinyl siding is a popular choice for Columbus homeowners due to its affordability, durability, and low maintenance requirements. We offer a wide variety of vinyl siding styles and colors to complement any home's architecture, from classic Colonial to modern ranch. Our expert installation ensures a weather-tight seal that protects against Ohio's harsh winters and humid summers. We properly prepare the underlying surface, install moisture barriers, and meticulously fasten each panel to prevent warping, cracking, and water damage. We handle all aspects of the project, from removing old siding to disposing of debris, leaving your property clean and beautiful. Our vinyl siding options are designed to withstand the freeze-thaw cycles common in Columbus, preventing costly repairs down the road.\n\nWe also offer insulated vinyl siding for enhanced energy efficiency, helping you save on heating and cooling costs. We work with leading manufacturers to provide high-quality vinyl siding that resists fading, cracking, and impact damage. Our team is trained in the latest installation techniques to ensure a flawless finish that lasts for years to come. We'll help you choose the perfect vinyl siding to enhance your home's curb appeal and protect your investment.",
+        "process": [
+          "Step 1: Consultation and Material Selection",
+          "Step 2: Old Siding Removal and Surface Preparation",
+          "Step 3: Moisture Barrier and Underlayment Installation",
+          "Step 4: Precise Vinyl Siding Installation"
+        ],
+        "benefits": [
+          "Affordable and Durable",
+          "Low Maintenance",
+          "Wide Variety of Styles and Colors",
+          "Improved Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last in Columbus's climate?",
+            "answer": "With proper installation and maintenance, vinyl siding can last for 20-40 years, even with our harsh winters. We use high-quality materials designed to resist fading, cracking, and warping."
+          },
+          {
+            "question": "Does vinyl siding require painting?",
+            "answer": "No, vinyl siding is virtually maintenance-free and does not require painting. Simply wash it periodically with soap and water to remove dirt and debris."
+          },
+          {
+            "question": "Can vinyl siding increase my home's energy efficiency?",
+            "answer": "Yes, insulated vinyl siding can significantly improve your home's energy efficiency by reducing heat loss in the winter and heat gain in the summer. This can lead to lower energy bills and a more comfortable home."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable and fire-resistant fiber cement siding for lasting beauty.",
+        "description": "Fiber cement siding is a premium siding option that offers exceptional durability, fire resistance, and aesthetic appeal. Ideal for homeowners seeking a low-maintenance alternative to wood, fiber cement mimics the look of natural wood without the risk of rot, insect infestation, or fire damage. We specialize in the expert installation of fiber cement siding, ensuring a flawless finish that enhances your home's curb appeal and protects it from the elements. Fiber cement siding is particularly well-suited for Columbus's climate, as it resists warping, cracking, and fading, even under extreme temperature fluctuations.\n\nOur experienced installers meticulously follow manufacturer guidelines to ensure proper installation and long-lasting performance. We use high-quality fasteners and sealants to create a weather-tight barrier that protects your home from moisture damage. We offer a wide range of fiber cement siding styles and colors to complement any architectural design, from traditional to contemporary. We handle all aspects of the project, from removing old siding to painting and finishing the new fiber cement siding. Fiber cement is a great choice if you are looking to add value and longevity to your home.\n\nWe understand the unique challenges posed by Columbus's climate, including freeze-thaw cycles and heavy snowfall. That's why we recommend fiber cement siding for homeowners seeking a durable and reliable siding solution. Our expert installation ensures that your fiber cement siding will stand the test of time, providing years of protection and beauty.",
+        "process": [
+          "Step 1: Detailed Consultation and Design Selection",
+          "Step 2: Precise Measurement and Cutting of Fiber Cement Boards",
+          "Step 3: Weather-Resistant Barrier Installation",
+          "Step 4: Professional Fiber Cement Siding Installation and Finishing"
+        ],
+        "benefits": [
+          "Exceptional Durability and Longevity",
+          "Fire Resistance",
+          "Low Maintenance",
+          "Enhanced Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "How long does fiber cement siding last?",
+            "answer": "Fiber cement siding can last for 50 years or more with proper installation and maintenance. It is a very durable and long-lasting siding option."
+          },
+          {
+            "question": "Does fiber cement siding require painting?",
+            "answer": "Fiber cement siding comes pre-primed and requires painting after installation. We offer professional painting services to ensure a flawless finish."
+          },
+          {
+            "question": "Is fiber cement siding more expensive than vinyl siding?",
+            "answer": "Yes, fiber cement siding is generally more expensive than vinyl siding due to its superior durability and fire resistance. However, the long-term benefits and increased home value often outweigh the initial cost."
+          }
+        ]
+      },
+      {
+        "slug": "wood-siding-installation",
+        "name": "Wood Siding Installation",
+        "shortDescription": "Classic wood siding installation for natural beauty and warmth.",
+        "description": "Wood siding offers a timeless aesthetic and natural warmth that can enhance the beauty of any home. While wood siding requires more maintenance than other options, its unique character and curb appeal make it a popular choice for discerning homeowners. We specialize in the expert installation of wood siding, ensuring a proper fit and finish that protects your home from the elements. We understand the importance of selecting the right type of wood for Columbus's climate, and we offer a variety of options, including cedar, redwood, and pine. These woods are naturally resistant to rot, decay, and insect infestation.\n\nOur experienced carpenters meticulously install each piece of wood siding, paying close attention to detail to ensure a seamless and durable finish. We use high-quality fasteners and sealants to prevent water damage and maintain the integrity of the siding. We also offer professional painting and staining services to protect the wood and enhance its natural beauty. We can match any existing color or create a custom finish to complement your home's architecture. Wood siding offers a great, classic look, but requires regular maintenance.\n\nWe understand the challenges of maintaining wood siding in Columbus's climate, including the risk of moisture damage and insect infestation. That's why we recommend regular inspections and maintenance to ensure the longevity of your wood siding. Our team can provide expert advice on how to properly care for your wood siding and prevent costly repairs.",
+        "process": [
+          "Step 1: Wood Selection and Custom Cutting",
+          "Step 2: Precise Installation with Proper Spacing",
+          "Step 3: Caulking and Sealing for Weather Protection",
+          "Step 4: Painting or Staining for a Finished Look"
+        ],
+        "benefits": [
+          "Natural Beauty and Warmth",
+          "Increased Curb Appeal",
+          "Variety of Wood Options",
+          "Customizable Finishes"
+        ],
+        "faq": [
+          {
+            "question": "How often does wood siding need to be painted or stained?",
+            "answer": "Wood siding typically needs to be painted or stained every 3-5 years, depending on the type of wood and the weather conditions. Regular maintenance is essential to protect the wood from moisture damage and insect infestation."
+          },
+          {
+            "question": "What type of wood is best for siding in Columbus?",
+            "answer": "Cedar and redwood are excellent choices for wood siding in Columbus due to their natural resistance to rot, decay, and insect infestation. Pine is a more affordable option, but it requires more frequent maintenance."
+          },
+          {
+            "question": "Can wood siding be installed over existing siding?",
+            "answer": "No, it is generally not recommended to install wood siding over existing siding. The old siding must be removed to ensure a proper fit and prevent moisture damage."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair Services",
+        "shortDescription": "Expert siding repair to fix damage and extend the life of your siding.",
+        "description": "Even the most durable siding can suffer damage from weather, impact, or age. We offer comprehensive siding repair services to address any issue, from minor cracks and dents to major storm damage. Our experienced technicians can quickly diagnose the problem and provide effective solutions to restore your siding to its original condition. We work with all types of siding, including vinyl, fiber cement, and wood.\n\nWe understand the importance of prompt and reliable siding repair. Damaged siding can lead to water damage, mold growth, and energy loss. That's why we offer 24/7 emergency repair services to address urgent issues. Our team will arrive quickly, assess the damage, and provide a cost-effective solution to protect your home. We can match existing siding colors and textures to ensure a seamless repair. We also offer preventative maintenance services to help you avoid costly repairs in the future. We will inspect your siding and identify potential problems before they become serious.\n\nWhether you have a few cracked panels or extensive storm damage, we can help. We are committed to providing high-quality siding repair services that restore the beauty and integrity of your home.",
+        "process": [
+          "Step 1: Thorough Inspection to Identify Damage",
+          "Step 2: Precise Matching of Materials and Colors",
+          "Step 3: Careful Repair or Replacement of Damaged Sections",
+          "Step 4: Sealing and Finishing for a Seamless Look"
+        ],
+        "benefits": [
+          "Fast and Reliable Repairs",
+          "Expert Matching of Materials",
+          "Prevention of Further Damage",
+          "Extended Siding Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs to be repaired?",
+            "answer": "Common signs of siding damage include cracks, dents, holes, warping, and loose panels. You should also inspect your siding after a major storm for any signs of damage."
+          },
+          {
+            "question": "Can you match the color of my existing siding?",
+            "answer": "Yes, we can precisely match the color of your existing siding to ensure a seamless repair. We use high-quality paints and stains to achieve a perfect match."
+          },
+          {
+            "question": "How long does siding repair take?",
+            "answer": "The duration of siding repair depends on the extent of the damage. Minor repairs can often be completed in a few hours, while more extensive repairs may take a day or two."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Complete Siding Replacement",
+        "shortDescription": "Upgrade your home with complete siding replacement for enhanced protection and curb appeal.",
+        "description": "If your siding is old, damaged, or outdated, a complete siding replacement can dramatically improve your home's appearance, value, and energy efficiency. We offer comprehensive siding replacement services, from removing old siding to installing new, high-quality siding. We work with all types of siding, including vinyl, fiber cement, and wood, and we can help you choose the perfect siding to complement your home's architecture and budget.\n\nWe understand that siding replacement is a significant investment, and we are committed to providing exceptional value and service. Our experienced team will guide you through every step of the process, from selecting the right siding to ensuring a flawless installation. We use only the highest-quality materials and installation techniques to ensure a long-lasting and beautiful finish. We properly prepare the underlying surface, install moisture barriers, and meticulously fasten each panel to prevent warping, cracking, and water damage. We handle all aspects of the project, from removing old siding to disposing of debris, leaving your property clean and beautiful.\n\nWe also offer energy-efficient siding options that can help you save on heating and cooling costs. Insulated vinyl siding and fiber cement siding can significantly reduce heat loss in the winter and heat gain in the summer. We can help you choose the right siding to maximize your energy savings and comfort. We will work with you to find the best solution for your home.",
+        "process": [
+          "Step 1: Consultation and Material Selection",
+          "Step 2: Old Siding Removal and Disposal",
+          "Step 3: Thorough Inspection and Surface Preparation",
+          "Step 4: Expert Siding Installation and Finishing"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Home Value",
+          "Improved Energy Efficiency",
+          "Long-Lasting Protection"
+        ],
+        "faq": [
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "Siding replacement typically takes 1-2 weeks, depending on the size of your home and the type of siding being installed. We will provide you with a detailed timeline before starting the project."
+          },
+          {
+            "question": "What is the cost of siding replacement?",
+            "answer": "The cost of siding replacement varies depending on the size of your home, the type of siding you choose, and the complexity of the installation. We offer free estimates to provide you with an accurate cost assessment."
+          },
+          {
+            "question": "Does siding replacement require a permit?",
+            "answer": "Yes, siding replacement typically requires a permit from the city of Columbus. We will handle all the necessary paperwork and ensure that your project complies with local building codes."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia",
+        "name": "Soffit and Fascia Services",
+        "shortDescription": "Protect your roof and home with expert soffit and fascia installation and repair.",
+        "description": "Soffit and fascia are essential components of your home's roofing system, providing ventilation and protection from the elements. Damaged or deteriorated soffit and fascia can lead to water damage, insect infestation, and structural problems. We offer comprehensive soffit and fascia services, including installation, repair, and replacement. Our experienced team can quickly assess your needs and provide effective solutions to protect your home.\n\nWe work with a variety of materials, including vinyl, aluminum, and wood, and we can help you choose the best option for your home's style and budget. We properly install soffit to ensure adequate ventilation, preventing moisture buildup and mold growth in your attic. We also install fascia to protect your roof from water damage and provide a clean, finished look. Our team is trained in the latest installation techniques to ensure a long-lasting and durable finish. We use high-quality materials and fasteners to withstand Ohio's harsh weather conditions.\n\nWhether you need a simple repair or a complete replacement, we are committed to providing exceptional service and value. We understand the importance of protecting your home from the elements, and we take pride in our workmanship. We guarantee your satisfaction with our soffit and fascia services.",
+        "process": [
+          "Step 1: Thorough Inspection of Soffit and Fascia",
+          "Step 2: Material Selection and Custom Cutting",
+          "Step 3: Precise Installation and Secure Fastening",
+          "Step 4: Sealing and Finishing for a Weather-Tight Seal"
+        ],
+        "benefits": [
+          "Improved Ventilation",
+          "Protection from Water Damage",
+          "Enhanced Curb Appeal",
+          "Prevention of Insect Infestation"
+        ],
+        "faq": [
+          {
+            "question": "What are soffit and fascia?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, while fascia is the vertical board that runs along the edge of your roof. Both provide protection and a finished look to your home."
+          },
+          {
+            "question": "How do I know if my soffit and fascia need to be repaired or replaced?",
+            "answer": "Signs of damage include rotting wood, peeling paint, sagging soffit, and evidence of insect or animal infestation. Regular inspections can help identify problems early."
+          },
+          {
+            "question": "What materials are used for soffit and fascia?",
+            "answer": "Common materials include vinyl, aluminum, and wood. Vinyl and aluminum are low-maintenance options, while wood offers a more traditional look but requires more upkeep."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dublin",
+        "slug": "dublin-oh",
+        "state": "OH",
+        "content": "Premium Siding LLC is proud to offer our expert siding services to the residents of Dublin, Ohio. Known for its upscale subdivisions built primarily in the 1980s through the 2000s, Dublin boasts beautiful homes that deserve the best protection and curb appeal. We understand the specific needs of Dublin homeowners and provide siding solutions that enhance the value and beauty of your property.\n\nOur team is experienced in working with a variety of siding materials, including vinyl, fiber cement, and wood, ensuring a perfect match for your home's style and your personal preferences. Given Dublin's climate, with its cold, snowy winters and frequent freeze-thaw cycles, we pay special attention to proper installation techniques to prevent damage and ensure long-lasting performance. We're committed to providing top-quality siding services that protect your investment and keep your Dublin home looking its best for years to come.",
+        "localContext": "Dublin, Ohio is an upscale community with many homes built between the 1980s and 2000s. Premium Siding LLC understands the unique needs of Dublin homeowners.",
+        "nearbyAreas": [
+          "Columbus",
+          "Powell",
+          "Worthington"
+        ]
+      },
+      {
+        "city": "Westerville",
+        "slug": "westerville-oh",
+        "state": "OH",
+        "content": "Premium Siding LLC is dedicated to providing Westerville, Ohio, with top-notch siding services. Westerville, an established suburb with many homes built in the 1970s and 1980s, features a mix of architectural styles. We understand the importance of maintaining the character of your home while providing superior protection from the elements.\n\nWe offer a wide range of siding options to suit your needs and budget, from classic vinyl siding to durable fiber cement and beautiful wood siding. Westerville's climate, with its cold, snowy winters and freeze-thaw cycles, can be hard on siding. We use expert installation techniques to minimize the effects of the weather and maximize the lifespan of your siding. Trust Premium Siding LLC to provide reliable and affordable siding solutions for your Westerville home.",
+        "localContext": "Westerville, Ohio, known for its established neighborhoods built in the 1970s and 80s, requires siding solutions that blend seamlessly with existing architecture. Premium Siding LLC is familiar with the area's needs.",
+        "nearbyAreas": [
+          "Columbus",
+          "Galena",
+          "Worthington"
+        ]
+      },
+      {
+        "city": "Hilliard",
+        "slug": "hilliard-oh",
+        "state": "OH",
+        "content": "Premium Siding LLC is proud to serve the residents of Hilliard, Ohio, with exceptional siding services. Hilliard, with its family-friendly subdivisions developed primarily in the 1980s and 1990s, is a wonderful place to live and raise a family. We understand the importance of a safe, comfortable, and attractive home, and we're committed to providing siding solutions that meet your needs and exceed your expectations.\n\nWe offer a wide variety of siding options to complement the architectural styles found in Hilliard, including vinyl, fiber cement, and wood siding. Considering Hilliard's climate, with its cold, snowy winters and freeze-thaw cycles, we focus on proper installation techniques to ensure that your siding can withstand the elements and provide lasting protection. Premium Siding LLC is your trusted partner for all your siding needs in Hilliard.",
+        "localContext": "Hilliard, Ohio, a family-oriented community with subdivisions from the 1980s and 90s, benefits from Premium Siding LLC's expertise in siding installation and repair.",
+        "nearbyAreas": [
+          "Columbus",
+          "Dublin",
+          "Plain City"
+        ]
+      },
+      {
+        "city": "Grove City",
+        "slug": "grove-city-oh",
+        "state": "OH",
+        "content": "Premium Siding LLC is dedicated to serving the community of Grove City, Ohio, with high-quality and affordable siding services. Grove City, with its many affordable homes built in the 1970s and 1980s, is a great place to own a home. We understand the value of a well-maintained home and the importance of protecting your investment.\n\nWe offer a range of siding options to suit your style and budget, including vinyl, aluminum, and fiber cement siding. Grove City experiences cold, snowy winters with freeze-thaw cycles, which can be damaging to siding. We utilize expert installation techniques to minimize the effects of the weather and maximize the lifespan of your siding. Premium Siding LLC is committed to providing reliable and cost-effective siding solutions for your Grove City home.",
+        "localContext": "Grove City, Ohio, known for its affordable homes built in the 1970s and 80s, relies on Premium Siding LLC for cost-effective and durable siding solutions.",
+        "nearbyAreas": [
+          "Columbus",
+          "Orient",
+          "Harrisburg"
+        ]
+      },
+      {
+        "city": "Powell",
+        "slug": "powell-oh",
+        "state": "OH",
+        "content": "Premium Siding LLC extends its expert siding services to Powell, Ohio, offering homeowners quality and style. Powell is characterized by its well-maintained homes and growing community. We are committed to enhancing the curb appeal and protecting homes in Powell with our professional siding solutions.\n\nWe offer a variety of siding materials, from classic vinyl to durable fiber cement and wood, ensuring a perfect match with your home's aesthetic. Given Powell's exposure to harsh winters, we focus on installations that withstand freeze-thaw cycles, protecting your investment for years to come. Trust Premium Siding LLC to provide top-notch siding services in Powell.",
+        "localContext": "Powell, Ohio, known for its attractive homes, relies on Premium Siding LLC for siding that enhances curb appeal and provides long-lasting protection.",
+        "nearbyAreas": [
+          "Dublin",
+          "Lewis Center",
+          "Delaware"
+        ]
+      },
+      {
+        "city": "Worthington",
+        "slug": "worthington-oh",
+        "state": "OH",
+        "content": "Premium Siding LLC proudly serves Worthington, Ohio, offering expert siding services tailored to the unique needs of this historic community. Worthington's blend of historic homes and newer developments requires a siding company with the experience and versatility to handle any project. We understand the importance of preserving the architectural integrity of your home while providing superior protection from the elements.\n\nWe offer a wide range of siding options, including vinyl, fiber cement, and wood siding, to complement the diverse styles found in Worthington. Considering Worthington's climate, we use proven installation techniques that minimize the effects of harsh weather conditions. Premium Siding LLC is your trusted partner for all your siding needs in Worthington.",
+        "localContext": "Worthington, Ohio, with its mix of historic and modern homes, relies on Premium Siding LLC for siding solutions that blend seamlessly with the town's character.",
+        "nearbyAreas": [
+          "Columbus",
+          "Dublin",
+          "Westerville"
+        ]
+      },
+      {
+        "city": "Lewis Center",
+        "slug": "lewis-center-oh",
+        "state": "OH",
+        "content": "Premium Siding LLC is pleased to offer comprehensive siding services to the residents of Lewis Center, Ohio. A rapidly growing community with a mix of newer homes, Lewis Center requires a siding provider that understands the latest trends and technologies. We are dedicated to providing siding solutions that enhance the value and beauty of your property.\n\nWe offer a wide range of siding options to suit your needs and budget, from low-maintenance vinyl to durable fiber cement and beautiful wood siding. With Lewis Center's exposure to seasonal weather changes, we focus on proper installation techniques to ensure lasting performance. Premium Siding LLC is committed to providing reliable and affordable siding solutions for your Lewis Center home.",
+        "localContext": "Lewis Center, Ohio, a growing community with many new homes, benefits from Premium Siding LLC's expertise in modern siding solutions and installation techniques.",
+        "nearbyAreas": [
+          "Westerville",
+          "Powell",
+          "Delaware"
+        ]
+      },
+      {
+        "city": "Delaware",
+        "slug": "delaware-oh",
+        "state": "OH",
+        "content": "Premium Siding LLC extends its professional siding services to Delaware, Ohio, providing homeowners with durable and aesthetically pleasing options. Delaware's mix of historic charm and modern development means a variety of siding styles are needed, and we're here to meet those needs with expert installation and quality materials.\n\nWe understand the importance of protecting your home from the elements, especially with Delaware's cold winters and warm summers. We offer a range of siding choices, including vinyl, fiber cement, and wood, all installed with precision and care to ensure long-lasting protection. Trust Premium Siding LLC to enhance the beauty and value of your Delaware home.",
+        "localContext": "Delaware, Ohio, blending historic charm with modern development, benefits from Premium Siding LLC's diverse siding options and expert installation services.",
+        "nearbyAreas": [
+          "Lewis Center",
+          "Powell",
+          "Sunbury"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Premium Siding did an outstanding job installing new vinyl siding on our home in Clintonville. The crew was professional, efficient, and paid close attention to detail. Our house looks fantastic, and we've already received compliments from our neighbors. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John K.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "We had some storm damage to our fiber cement siding in German Village, and Premium Siding responded quickly and provided a fair quote. The repair was done seamlessly, and you can't even tell there was any damage. Very satisfied with their service.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Wood Siding Installation",
+        "text": "We chose Premium Siding to install cedar siding on our Tudor home in Upper Arlington. The craftsmanship was exceptional. They took the time to ensure every piece was perfectly fitted and stained. A truly professional job!",
+        "date": "2025-01-05"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Soffit and Fascia Repair",
+        "text": "Premium Siding fixed our damaged soffit and fascia after squirrels got into our attic. They were prompt, courteous, and did a great job sealing everything up. We haven't had any problems since. Highly recommend!",
+        "date": "2024-09-12"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Siding Replacement",
+        "text": "Our old vinyl siding was falling apart, so we hired Premium Siding for a complete replacement. The new siding looks amazing, and our house feels much more insulated. The only reason for 4 stars is there was a slight delay in the project start date, but the work itself was excellent.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Fiber Cement Siding",
+        "text": "We recently had Premium Siding install fiber cement siding. From the initial consultation to the final walk-through, their team was professional, knowledgeable, and attentive to our needs. The new siding has transformed the look of our home, and we feel confident it will last for many years to come.",
+        "date": "2024-10-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Premium Siding LLC | Columbus, OH",
+        "description": "Expert siding installation and repair in Columbus. Vinyl, fiber cement, wood siding. Free estimates. Call Premium Siding today!"
+      },
+      "about": {
+        "title": "About Premium Siding LLC - Columbus",
+        "description": "Learn about Premium Siding LLC in Columbus, OH. Our mission, values, and commitment to quality siding solutions."
+      },
+      "services": {
+        "title": "Siding Services | Columbus, OH",
+        "description": "Vinyl, fiber cement, wood siding installation & repair in Columbus. Expert siding contractors. Request a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Premium Siding LLC",
+        "description": "Contact Premium Siding LLC in Columbus, OH for siding installation & repair. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Premium Siding LLC Reviews",
+        "description": "Read reviews of Premium Siding LLC in Columbus, OH. See what our customers say about our siding installation & repair services."
+      },
+      "service-areas": {
+        "title": "Service Areas - Premium Siding LLC",
+        "description": "Premium Siding LLC provides service in Columbus, Dublin, Westerville, Hilliard, Grove City. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding": "/images/service-fiber-cement-siding.webp",
+      "wood-siding-installation": "/images/service-wood-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "soffit-and-fascia": "/images/service-soffit-and-fascia.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding": {
+        "src": "/images/service-fiber-cement-siding.webp",
+        "srcset": "/images/service-fiber-cement-siding-400w.webp 400w, /images/service-fiber-cement-siding-800w.webp 800w, /images/service-fiber-cement-siding-1200w.webp 1200w, /images/service-fiber-cement-siding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-siding-installation": {
+        "src": "/images/service-wood-siding-installation.webp",
+        "srcset": "/images/service-wood-siding-installation-400w.webp 400w, /images/service-wood-siding-installation-800w.webp 800w, /images/service-wood-siding-installation-1200w.webp 1200w, /images/service-wood-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia": {
+        "src": "/images/service-soffit-and-fascia.webp",
+        "srcset": "/images/service-soffit-and-fascia-400w.webp 400w, /images/service-soffit-and-fascia-800w.webp 800w, /images/service-soffit-and-fascia-1200w.webp 1200w, /images/service-soffit-and-fascia.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
